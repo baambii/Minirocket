@@ -11,9 +11,6 @@
 
 ### Improvements
 - keeps **MiniRocket** as the main method
-- tests 3 improvements:
-  1. `MiniRocket_Ridge_20k`
-  2. `MiniRocket_LogReg_10k`
-  3. `MiniRocket_LinearSVC_10k`
+- tests 3 improvements:`MiniRocket_Ridge_20k``MiniRocket_LogReg_10k``MiniRocket_LinearSVC_10k`
 
 
