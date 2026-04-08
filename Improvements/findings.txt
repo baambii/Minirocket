@@ -1,0 +1,12 @@
+reproduction
+
+datasets completed: 109/109
+mean paper accuracy: 0.8724
+mean our accuracy: 0.8584
+mean accuracy difference: -0.0140
+
+improvements
+
+best improvement model: MiniRocket_Ridge_10k
+mean accuracy: 0.9560
+mean macro f1: 0.9552
