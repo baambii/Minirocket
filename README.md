@@ -1,7 +1,3 @@
-# MiniRocket strict reproduction project
-
-This project reproduces the **MiniRocket** paper baseline and then runs a smaller **MiniRocket-based improvement study**.
-
 ## What this project does?
 ### Reproduction
 - uses the **official MiniRocket code**
